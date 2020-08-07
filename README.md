@@ -1,6 +1,6 @@
 # Cauã Pinheiro
 
-"When something is important enough, you do it even if the odds are not in your favor." - Musk, Elon
+"_When something is important enough, you do it even if the odds are not in your favor._" - Musk, Elon
 
 16y - São Paulo, Brazil
 
