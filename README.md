@@ -1,5 +1,7 @@
 # Cauã Pinheiro
 
+_"Always pass on what you have learned"_. - Yoda
+
 [![Gmail Badge](https://img.shields.io/badge/-cauaspinheiro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cauaspinheiro@gmail.com)](mailto:cauaspinheiro@gmail.com)
 
 ## Main languages
