@@ -16,11 +16,15 @@ _"Always pass on what you have learned"_. - Yoda
 
 <img align="left" alt="Nestjs" src="./assets/nestjs.svg" width="32">
 
-<img style="margin-left:12px" alt="Socketio" src="./assets/socketio.svg" width="32">
+<img style="margin-left:12px" alt="Socketio" src="./assets/socketio-black.svg#gh-light-mode-only" width="32">
+
+<img style="margin-left:12px" alt="Socketio" src="./assets/socketio-white.svg#gh-dark-mode-only" width="32">
 
 ### Frontend
 
-<img align="left"  alt="Next.js" src="./assets/nextjs.svg" width="32">
+<img align="left"  alt="Next.js" src="./assets/nextjs-black.svg#gh-light-mode-only" width="32">
+
+<img align="left"  alt="Next.js" src="./assets/nextjs-white.svg#gh-dark-mode-only" width="32">
 
 <img align="left" style="margin-left:12px" alt="React" src="./assets/react.svg" width="32">
 
