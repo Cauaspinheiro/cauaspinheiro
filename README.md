@@ -3,6 +3,8 @@
 _"Always pass on what you have learned"_. - Yoda
 
 [![Gmail Badge](https://img.shields.io/badge/-cauaspinheiro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cauaspinheiro@gmail.com)](mailto:cauaspinheiro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Cauã%20Pinheiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauaspinheiro/)](https://www.linkedin.com/in/cauaspinheiro/)
+
 
 ## Main languages
 
