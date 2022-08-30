@@ -10,7 +10,9 @@ _"Always pass on what you have learned"_. - Yoda
 
 <img align="left" alt="Javascript" src="./assets/js.svg" width="32">
 
-<img style="margin-left:12px"  alt="Typescript" src="./assets/ts.svg" width="32">
+<img align="left" alt="Typescript" src="./assets/ts.svg" width="32">
+
+<img style="margin-left:12px" alt="GraphQL" src="./assets/graphql.svg" width="32">
 
 ## Love to work
 
@@ -46,9 +48,7 @@ _"Always pass on what you have learned"_. - Yoda
 
 <img align="left" style="margin-left:12px" alt="SolidJS" src="./assets/solid.svg" width="32">
 
-<img align="left" style="margin-left:12px" alt="Go" src="./assets/go.svg" width="32">
-
-<img style="margin-left:12px" alt="GraphQL" src="./assets/graphql.svg" width="32">
+<img style="margin-left:12px" alt="Go" src="./assets/go.svg" width="32">
 
 <!-- Image template
 <img align="left" style="margin-left:12px" alt="Typescript" src="./assets/ts.svg" width="32">
